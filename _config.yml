@@ -2,16 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+url: https://selfcontrol.apki.io
+author: Paweł Urbanek
+description: iOS App inspired by a well known SelfControl, it aims to provide a similar functionality on iOS. It allows you to block distracting websites on iPhone. Have you ever wasted your time on the Internet? Having trouble getting stuff done because of procrastination? Do you need more self control? This is the app for you.
+copyright: '&copy; Paweł Urbanek 2018'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -25,10 +19,3 @@ permalink: pretty
 #   3rd Party Settings    #
 # ----------------------- #
 
-social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
