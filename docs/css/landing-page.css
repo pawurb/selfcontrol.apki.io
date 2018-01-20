@@ -183,3 +183,8 @@ p.copyright {
   margin-bottom: 30px;
 }
 
+html {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
