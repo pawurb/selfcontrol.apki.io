@@ -89,7 +89,7 @@ h6 {
 }
 
 .content-section-a {
-    padding: 50px 0;
+    padding: 50px 0 10px 0;
     background-color: #f8f8f8;
 }
 
@@ -100,7 +100,8 @@ h6 {
 }
 
 .section-heading {
-    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-bottom: 25px;
 }
 
 .section-heading-spacer {
@@ -190,7 +191,7 @@ html {
 
 .star-rating {
   padding-top: 5px;
-  font-size: 1.8em;
+  font-size: 1.7em;
 }
 .glyphicon-star.half {
   position: relative;
@@ -209,6 +210,17 @@ html {
   color: #bdc3c7;
   top: 0;
   left: 0;
+}
+
+.link {
+  color: #333;
+  border-bottom: 1px solid !important;
+}
+
+a, a:link, a:visited, a:hover, a:active, a:focus {
+  background-image: none;
+  text-decoration: none;
+  color: #333;
 }
 
 
